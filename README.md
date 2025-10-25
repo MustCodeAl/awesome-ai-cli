@@ -13,7 +13,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ## AI Assistant CLIs
 
 ### Amp CLI
-**[Amp](https://www.amp.dev/)** - AI-powered development assistant for the command line.
+**[Amp](https://ampcode.com/)** - AI-powered development assistant for the command line.
 
 **Licensing:** Proprietary
 
@@ -26,7 +26,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### Claude Code
-**[Claude Code (via Claude API)](https://www.anthropic.com/claude)** - Anthropic's Claude AI accessible through CLI interfaces.
+**[Claude Code (via Claude API)](https://www.claude.com/product/claude-code)** - Anthropic's Claude AI accessible through CLI interfaces.
 
 **Licensing:** Proprietary (API-based)
 
@@ -40,7 +40,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### Codex CLI
-**[Codex CLI](https://openai.com/blog/openai-codex)** - OpenAI's Codex model for code generation via command line.
+**[Codex CLI](https://openai.com/codex/)** - OpenAI's Codex model for code generation via command line.
 
 **Licensing:** Proprietary
 
@@ -53,22 +53,33 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
-### Droid CLI
-**[Droid](https://github.com/droidpl/droid)** - AI-powered assistant for Android development.
+### Copilot CLI
+**[Copilot CLI](https://github.com/features/copilot/cli)** - Githubs's Copilot model for code generation via command line.
 
-**Licensing:** Open Source
+**Licensing:** Proprietary
 
 **Benefits:**
-- Specialized for Android development workflows
-- Assists with Gradle configurations and Android-specific tasks
+- Powered by Github's code-specialized models
+- Natural language to code translation
+- Multi-language code generation
+- Integrated with GitHub Copilot ecosystem
+- Strong understanding of programming patterns and best practices
+
+---
+
+### Droid CLI
+**[Droid](https://factory.ai/)** - AI-powered assistant.
+
+**Licensing:** Proprietary
+
+**Benefits:**
 - Reduces boilerplate code generation
-- Helps with debugging Android-specific issues
 - Community-driven development
 
 ---
 
 ### Gemini CLI
-**[Gemini CLI](https://ai.google.dev/gemini-api)** - Google's Gemini AI accessible through command-line tools.
+**[Gemini CLI](https://github.com/google-gemini/gemini-cli)** - Google's Gemini AI accessible through command-line tools.
 
 **Licensing:** Freemium (API-based)
 
@@ -83,7 +94,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### Goose CLI
-**[Goose](https://github.com/square/goose)** - Open-source AI coding assistant by Square.
+**[Goose](https://github.com/block/goose)** - Open-source AI coding assistant by Square.
 
 **Licensing:** Open Source
 
@@ -98,7 +109,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### Grok CLI
-**[Grok](https://x.ai/)** - xAI's conversational AI accessible through CLI interfaces.
+**[Grok](https://grokcli.io/)** - xAI's conversational AI accessible through CLI interfaces.
 
 **Licensing:** Proprietary
 
@@ -112,7 +123,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### OpenCode
-**[OpenCode](https://github.com/opencodeiiita/opencode)** - Open-source coding assistant CLI.
+**[OpenCode](https://opencode.ai/)** - Open-source coding assistant CLI.
 
 **Licensing:** Open Source
 
@@ -127,7 +138,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 ---
 
 ### Qodo Command
-**[Qodo Command (formerly Codium)](https://www.qodo.ai/)** - AI-powered code integrity platform with CLI support.
+**[Qodo Command (formerly Codium)](https://www.qodo.ai/products/qodo-command/)** - AI-powered code integrity platform with CLI support.
 
 **Licensing:** Freemium
 
