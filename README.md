@@ -110,6 +110,7 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ### Grok CLI
 **[Grok](https://grokcli.io/)** - xAI's conversational AI accessible through CLI interfaces.
+**[grok-one-shot](https://xcli.org)** - The self-building CLI powered by xAI’s Grok API. One-shot vibe coding with smart pushes, .agent memory, FsPort multi-repo orchestration, and built-in CI/CD (GH Actions + NPM). Install: `npx -y @grok/one-shot@latest`.
 
 **Licensing:** Proprietary
 
