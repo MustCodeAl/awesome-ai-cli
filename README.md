@@ -170,6 +170,20 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### OpenPaw
+**[OpenPaw](https://github.com/daxaur/openpaw)** - Turns Claude Code into a personal assistant with 38 built-in skills.
+
+**Licensing:** MIT (Open Source)
+
+**Benefits:**
+- Extends Claude Code with skills for email, calendar, Spotify, smart home, Slack, GitHub, and more
+- One-command setup via `npx pawmode`
+- Written in TypeScript with a modular skill system
+- Works alongside Claude Code's existing coding capabilities
+- Open source and community-driven
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
