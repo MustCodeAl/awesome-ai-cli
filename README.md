@@ -170,6 +170,20 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### Nex
+
+[Nex](https://github.com/nex-crm/nex-as-a-skill) - Organizational context and memory for AI agents.
+
+**Licensing:** Open Source (MIT)
+
+**Benefits:**
+- Connects email, Slack, CRM, and 100+ tools into one knowledge graph
+- 60-tool MCP server accessible via `npx @nex-ai/nex`
+- Persistent memory across agent sessions
+- Available as a Claude Code skill with SKILL.md and hooks
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
