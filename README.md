@@ -170,6 +170,12 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### Terminal Coding Agents
+
+- [Darce CLI](https://github.com/AmerSarhan/darce-cli) — Ultralight (14 kB) multi-model CLI coding agent. 7 built-in tools, smart model routing across providers, streaming responses, session resume, slash commands. `npm install -g darce-cli`
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
