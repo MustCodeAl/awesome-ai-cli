@@ -122,6 +122,21 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### lucinate
+**[lucinate](https://github.com/lucinate-ai/lucinate)** - Terminal-native TUI chat client for interacting with AI agents.
+
+**Licensing:** MIT (Open Source)
+
+**Benefits:**
+- Connect to OpenClaw gateways, Hermes agent profiles, and any OpenAI-compatible endpoint
+- Streaming responses with full markdown rendering
+- Tool call cards, local skills, and cron management
+- Session browsing and multi-agent support
+- Thinking control and shell command execution
+- Cross-platform (Homebrew: `brew install lucinate-ai/tap/lucinate`)
+
+---
+
 ### OpenCode
 **[OpenCode](https://opencode.ai/)** - Open-source coding assistant CLI.
 
