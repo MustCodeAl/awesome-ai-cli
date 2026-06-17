@@ -39,6 +39,19 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### Vernclaw Connect CLI
+**[Vernclaw Connect CLI](https://github.com/hekmon8/vernclaw-connect-cli)** - Official Vernclaw connector CLI with JSON-first output for AI agents, bundled skill docs, and connector invocation for SEO, social reading, and content workflows.
+
+**Licensing:** MIT
+
+**Benefits:**
+- JSON-first output that is easy for agents to parse
+- Bundled skill docs for connector-specific workflows
+- Works with SEO, social reading, and content-generation connectors
+- Fits terminal-native AI automation flows
+
+---
+
 ### Codex CLI
 **[Codex CLI](https://openai.com/codex/)** - OpenAI's Codex model for code generation via command line.
 
