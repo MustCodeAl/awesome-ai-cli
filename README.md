@@ -153,6 +153,19 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### RunAPI CLI
+**[RunAPI CLI](https://github.com/runapi-ai/cli)** - JSON-first command-line client for running AI image, video, music, audio, and LLM jobs.
+
+**Licensing:** Proprietary (API-based)
+
+**Benefits:**
+- Runs multimodal model jobs from terminal workflows
+- JSON-first output for scripts, CI, and AI agents
+- Supports install script, Homebrew, and Go install
+- Useful for image, video, music, audio, and LLM automation
+
+---
+
 ### Warp CLI
 **[Warp](https://www.warp.dev/)** - Modern terminal with built-in AI command search and suggestions.
 
