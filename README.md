@@ -78,6 +78,22 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### Lacy Shell
+**[Lacy Shell](https://github.com/lacymorrow/lacy)** - ZSH/Bash plugin that routes input to shell or AI agent automatically.
+
+**Licensing:** Open Source (MIT)
+
+**Benefits:**
+- Detects natural language vs shell commands using sub-millisecond lexical analysis
+- No AI call needed for input classification — zero latency overhead
+- Works with any AI CLI tool: Claude Code, Gemini CLI, OpenCode, Codex, and more
+- Real-time color indicator shows routing before you press Enter
+- First-word syntax highlighting updates on every keystroke (ZSH)
+- Supports ZSH and Bash 4+ on macOS, Linux, and WSL
+- Install with one command: `curl -fsSL https://lacy.sh/install | bash`
+
+---
+
 ### Gemini CLI
 **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** - Google's Gemini AI accessible through command-line tools.
 
