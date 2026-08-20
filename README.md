@@ -153,6 +153,19 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+### SandBase CLI
+**[SandBase CLI](https://github.com/sandbaseai/cli)** - Open-source CLI and local MCP bridge for connecting supported AI clients to 2,000+ AI models and APIs.
+
+**Licensing:** Apache-2.0
+
+**Benefits:**
+- Configures 25 supported AI client targets, including Codex, Claude Code, Cursor, Gemini CLI, and OpenCode
+- Exposes six MCP tools for discovery, schema and price inspection, execution, asynchronous result polling, run history, and account balance
+- Uses browser-based authorization instead of requiring separate provider API keys in local client configuration
+- Preserves user-managed client settings with ownership-aware updates and exact rollback
+
+---
+
 ### Warp CLI
 **[Warp](https://www.warp.dev/)** - Modern terminal with built-in AI command search and suggestions.
 
