@@ -12,6 +12,13 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ## AI Assistant CLIs
 
+### Persona CLI
+
+- [GitHub](https://github.com/jayamitkatariya/personacli)
+- Local-first personal workspace with notes, tasks, and AI chat powered by Ollama.
+- **Platform:** macOS
+- **Install:** `npm install -g persona`
+- **Run:** `persona`
 ### Amp CLI
 **[Amp](https://ampcode.com/)** - AI-powered development assistant for the command line.
 
