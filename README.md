@@ -170,6 +170,21 @@ AI CLI tools bring the power of large language models directly to your terminal,
 
 ---
 
+
+
+### Tokensave
+https://github.com/aovestdipaperino/tokensave
+
+
+
+
+### Rtk
+
+
+
+
+https://www.rtk-ai.app/docs/
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
